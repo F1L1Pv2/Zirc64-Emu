@@ -1,11 +1,4 @@
-[package]
-<<<<<<< HEAD
-name = "Zirc64-Emu"
-version = "0.1.0"
-edition = "2021"
-
 [dependencies]
-=======
 name = "zirc64"
 version = "0.1.0"
 authors = ["F1L1Pv2", "kktsdev"]
@@ -27,4 +20,3 @@ strip = "symbols"
 [profile.release.package."*"]
 opt-level = 3
 strip = "symbols"
->>>>>>> 8fd02b6 (First commit)
